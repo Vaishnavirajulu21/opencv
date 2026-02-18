@@ -86,6 +86,7 @@ Press **'q'** to exit the webcam window.
 moving-object-detection/
 │
 ├── moving_object_detection.py
+├── requirements.txt
 ├── README.md
 └── screenshots/
     └── motion_detected.png
